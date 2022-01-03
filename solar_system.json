@@ -1,0 +1,58 @@
+{
+    "Mercury": {
+        "mass": 0.33011,
+        "perihelion": 119.817,
+        "max_speed": 38.86,
+        "pic_path": "Assets/mercury.gif"
+    },
+    "Venus": {
+        "mass": 4.8675,
+        "perihelion": 157.476,
+        "max_speed": 35.26,
+        "pic_path": "Assets/venus.gif"
+    },
+    "Earth": {
+        "mass": 5.9724,
+        "perihelion": 197.092,
+        "max_speed": 30.29,
+        "pic_path": "Assets/earth.gif"
+    },
+    "Mars": {
+        "mass": 0.64171,
+        "perihelion": 256.617,
+        "max_speed": 26.50,
+        "pic_path": "Assets/mars.gif"
+    },
+    "Jupiter": {
+        "mass": 1898.19,
+        "perihelion": 790.522,
+        "max_speed": 13.72,
+        "pic_path": "Assets/jupiter.gif"
+    },
+
+    "Saturn": {
+        "mass": 568.34,
+        "perihelion": 1402.555,
+        "max_speed": 10.18,
+        "pic_path": "Assets/saturn.gif"
+    },
+
+    "Uranus": {
+        "mass": 86.813,
+        "perihelion": 2791.302,
+        "max_speed": 7.11,
+        "pic_path": "Assets/uranus.gif"
+    },
+    "Neptune": {
+        "mass": 102.413,
+        "perihelion": 4494.449,
+        "max_speed": 5.50,
+        "pic_path": "Assets/neptune.gif"
+    },
+    "Sun": {
+        "mass": 1988500,
+        "perihelion": 0,
+        "max_speed": 0,
+        "pic_path": "Assets/sun.gif"
+    }
+}
