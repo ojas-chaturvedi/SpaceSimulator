@@ -11,3 +11,5 @@ Steps to run the code:
 5. Execute main.py
 
 To see the 4 outer planets, which are far away from the sun and cannot be seen by the normal window size, there are scroll bars for you to look around and see the planets orbiting.
+
+Received 8/23 place as a beginner
